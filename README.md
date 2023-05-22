@@ -11,3 +11,7 @@ just a repo to learn git &amp; github
 
 * `status` -> check to see which files are being tracked or need to be commited
 * `init` -> use this command inside of your project to tur
+
+
+## how to connect local macine with github to clone repositories? (not for github desktop users)
+![Github's documentation](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh)
