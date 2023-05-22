@@ -14,4 +14,4 @@ just a repo to learn git &amp; github
 
 
 ## how to connect local macine with github to clone repositories? (not for github desktop users)
-![Github's documentation](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh)
+[Github's documentation](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh)
